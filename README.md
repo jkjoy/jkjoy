@@ -1,18 +1,15 @@
-## Hi there 👋
+## Hi  👋
 
+这里是我的简介
 
-**jkjoy/jkjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 工厂打工人
+- 🌱 擅长CTRL CV
+- 👯 单身
+- 🤔 性别男
+- 💬 交友
+- 📫 联系我
+- 😄 爱好女
+- ⚡ 
 
 ## 最近更新
 <!-- BLOG-POST-LIST:START -->
