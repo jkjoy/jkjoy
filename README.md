@@ -6,10 +6,10 @@
 - 🌱 擅长CTRL CV
 - 👯 单身
 - 🤔 性别男
+- 😄 爱好女
 - 💬 交友
 - 📫 联系我
-- 😄 爱好女
-- ⚡ 
+- ⚡ TG:imsunpw
 
 ## 最近更新
 <!-- BLOG-POST-LIST:START -->
