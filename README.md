@@ -1,6 +1,6 @@
 ## Hi  👋
 
-这里是我的简介
+这里是我的简介 ❤️
 
 - 🔭 工厂打工人
 - 🌱 擅长CTRL CV
@@ -11,7 +11,7 @@
 - 📫 联系我
 - ⚡ TG:imsunpw
 
-## 最近更新
+## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
 - [痛风患者饮食指南](https://www.imsun.org/archives/1659.html)
 - [Typecho S3存储插件 - S3Upload](https://www.imsun.org/archives/1656.html)
