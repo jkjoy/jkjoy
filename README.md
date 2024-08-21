@@ -13,9 +13,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [通过脚本获取Relay中继服务器的成员列表](https://www.imsun.org/archives/1661.html)
 - [Docker部署Activity-Relay服务](https://www.imsun.org/archives/1660.html)
 - [痛风患者饮食指南](https://www.imsun.org/archives/1659.html)
 - [Typecho S3存储插件 - S3Upload](https://www.imsun.org/archives/1656.html)
 - [折腾博客 之 通过Freshrss API实现朋友文章](https://www.imsun.org/archives/1654.html)
-- [Windows 如何设置动态壁纸](https://www.imsun.org/archives/1652.html)
 <!-- BLOG-POST-LIST:END -->
