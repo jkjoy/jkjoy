@@ -13,9 +13,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [Follow 使用体验](https://www.imsun.org/archives/1676.html)
 - [Dokploy 一款好用的开源VPS面板](https://www.imsun.org/archives/1671.html)
 - [快速部署一个发布memos的QQ机器人](https://www.imsun.org/archives/1669.html)
 - [使用Docker快速部署一个QQ机器人](https://www.imsun.org/archives/1668.html)
 - [使用Docker 快速部署 Pleroma 之 更新](https://www.imsun.org/archives/1663.html)
-- [通过脚本获取Relay中继服务器的成员列表](https://www.imsun.org/archives/1661.html)
 <!-- BLOG-POST-LIST:END -->
