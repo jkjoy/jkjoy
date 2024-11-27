@@ -13,9 +13,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [胖东来为何会被口诛笔伐](https://www.imsun.org/archives/1682.html)
 - [Typecho Farallon - 说说页面Memos 0.22](https://www.imsun.org/archives/1681.html)
 - [如何使用Docker快速部署mastodon实例](https://www.imsun.org/archives/1678.html)
 - [Follow 使用体验](https://www.imsun.org/archives/1676.html)
 - [Dokploy 一款好用的开源VPS面板](https://www.imsun.org/archives/1671.html)
-- [快速部署一个发布memos的QQ机器人](https://www.imsun.org/archives/1669.html)
 <!-- BLOG-POST-LIST:END -->
