@@ -13,9 +13,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [将新文章自动同步到 GoToSocial/Mastodon/Pleroma 实例的Typecho插件](https://www.imsun.org/archives/1698.html)
 - [Gotosocial 通过API获取用户Timeline](https://www.imsun.org/archives/1695.html)
 - [Gotosocial 的分域部署](https://www.imsun.org/archives/1694.html)
 - [使用Github Action自动生成静态相册](https://www.imsun.org/archives/1684.html)
 - [Tianji - 一个集成 网站分析 + 上线监控 + 服务器状态 的应用](https://www.imsun.org/archives/1690.html)
-- [使用 NeoDB API 构建观影页面](https://www.imsun.org/archives/1688.html)
 <!-- BLOG-POST-LIST:END -->
