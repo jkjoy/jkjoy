@@ -13,7 +13,7 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
-- [博客同步到GoToSocial的Typecho插件](https://www.imsun.org/archives/1698.html)
+- [Typecho博客同步插件FediverseSync](https://www.imsun.org/archives/1698.html)
 - [Gotosocial 通过API获取用户Timeline](https://www.imsun.org/archives/1695.html)
 - [Gotosocial 的分域部署](https://www.imsun.org/archives/1694.html)
 - [使用Github Action自动生成静态相册](https://www.imsun.org/archives/1684.html)
