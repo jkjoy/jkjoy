@@ -13,9 +13,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [使用Docker快速部署邮件服务器 Mailserver](https://www.imsun.org/archives/1713.html)
 - [APU 黑苹果支持列表](https://www.imsun.org/archives/1711.html)
 - [Typecho博客同步插件FediverseSync](https://www.imsun.org/archives/1698.html)
 - [Gotosocial 通过API获取用户Timeline](https://www.imsun.org/archives/1695.html)
 - [Gotosocial 的分域部署](https://www.imsun.org/archives/1694.html)
-- [使用Github Action自动生成静态相册](https://www.imsun.org/archives/1684.html)
 <!-- BLOG-POST-LIST:END -->
