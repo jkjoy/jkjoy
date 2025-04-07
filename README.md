@@ -13,9 +13,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [Typecho 批量插入附件](https://www.imsun.org/archives/1735.html)
 - [QQ-weather-bot](https://www.imsun.org/archives/1719.html)
 - [最近一周 &amp;amp; 不吐不快](https://www.imsun.org/archives/1717.html)
 - [Mango - 又一款Typecho Theme](https://www.imsun.org/archives/1716.html)
 - [使用Docker快速部署邮件服务器 Mailserver](https://www.imsun.org/archives/1713.html)
-- [APU 黑苹果支持列表](https://www.imsun.org/archives/1711.html)
 <!-- BLOG-POST-LIST:END -->
