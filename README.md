@@ -20,9 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
-- [又年长一岁](https://www.imsun.org/archives/1750.html)
-- [Typecho常用插件集合](https://www.imsun.org/archives/1749.html)
-- [2025年06月第2周记](https://www.imsun.org/archives/1748.html)
+- [悲!~](https://www.imsun.org/archives/1747.html)
 - [优化Typecho的思路](https://www.imsun.org/archives/1746.html)
 - [Typecho文章置顶&lpar;非插件&rpar;](https://www.imsun.org/archives/1745.html)
+- [Typecho根据slug添加icon](https://www.imsun.org/archives/1743.html)
+- [Mastodon新通知推送NoneBot](https://www.imsun.org/archives/1742.html)
 <!-- BLOG-POST-LIST:END -->
