@@ -20,9 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [Virtono 移动快乐鸡电信联通普通线路移动CMI](https://www.imsun.org/archives/1769.html)
 - [你好,9月](https://www.imsun.org/archives/1762.html)
 - [Mastodon v4.4.0升级指南](https://www.imsun.org/archives/1765.html)
 - [Debian系统挂载WebDav网盘](https://www.imsun.org/archives/1761.html)
 - [解决部分云服务器内存爆满但SWAP占用为0的问题](https://www.imsun.org/archives/1759.html)
-- [今日立秋](https://www.imsun.org/archives/1758.html)
 <!-- BLOG-POST-LIST:END -->
