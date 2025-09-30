@@ -20,9 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
-- [Virtono 移动快乐鸡电信联通普通线路移动CMI](https://www.imsun.org/archives/1769.html)
-- [你好,9月](https://www.imsun.org/archives/1762.html)
-- [Mastodon v4.4.0升级指南](https://www.imsun.org/archives/1765.html)
-- [Debian系统挂载WebDav网盘](https://www.imsun.org/archives/1761.html)
-- [解决部分云服务器内存爆满但SWAP占用为0的问题](https://www.imsun.org/archives/1759.html)
+- [优化Typecho的思路](https://www.imsun.org/archives/1746.html)
+- [Typecho文章置顶&lpar;非插件&rpar;](https://www.imsun.org/archives/1745.html)
+- [Typecho根据slug添加icon](https://www.imsun.org/archives/1743.html)
+- [Mastodon新通知推送NoneBot](https://www.imsun.org/archives/1742.html)
+- [Typecho 批量插入附件 并实现图片预览[2025/04/25更新]](https://www.imsun.org/archives/1735.html)
 <!-- BLOG-POST-LIST:END -->
