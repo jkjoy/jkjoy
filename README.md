@@ -20,9 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [Typecho RSS 全文输出美化插件](https://www.imsun.org/archives/1753.html)
 - [Puock - 又一款Typecho主题](https://www.imsun.org/archives/1752.html)
+- [解决部分云服务器内存爆满但SWAP占用为0的问题](https://www.imsun.org/archives/1751.html)
 - [又年长一岁](https://www.imsun.org/archives/1750.html)
 - [Typecho常用插件集合](https://www.imsun.org/archives/1749.html)
-- [2025年06月第2周记](https://www.imsun.org/archives/1748.html)
-- [优化Typecho的思路](https://www.imsun.org/archives/1746.html)
 <!-- BLOG-POST-LIST:END -->
