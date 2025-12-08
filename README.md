@@ -20,9 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [回顾一下](https://imsun.pw/archives/lets-review-it.html)
 - [买房那些事 10](https://imsun.pw/archives/10-things-about-buying-a-house.html)
 - [NAS散热](https://imsun.pw/archives/nas-cooling-system.html)
 - [绝唱](https://imsun.pw/archives/ultimate-song.html)
 - [入手RedMI K80 PRO](https://imsun.pw/archives/get-redmi-k80-pro.html)
-- [手机续航焦虑](https://imsun.pw/archives/mobile-phone-battery-life-anxiety.html)
 <!-- BLOG-POST-LIST:END -->
