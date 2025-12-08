@@ -20,9 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
-- [Typecho RSS 全文输出美化插件](https://www.imsun.org/archives/1753.html)
-- [Puock - 又一款Typecho主题](https://www.imsun.org/archives/1752.html)
-- [解决部分云服务器内存爆满但SWAP占用为0的问题](https://www.imsun.org/archives/1751.html)
-- [又年长一岁](https://www.imsun.org/archives/1750.html)
-- [Typecho常用插件集合](https://www.imsun.org/archives/1749.html)
+- [买房那些事 10](https://imsun.pw/archives/10-things-about-buying-a-house.html)
+- [NAS散热](https://imsun.pw/archives/nas-cooling-system.html)
+- [绝唱](https://imsun.pw/archives/ultimate-song.html)
+- [入手RedMI K80 PRO](https://imsun.pw/archives/get-redmi-k80-pro.html)
+- [手机续航焦虑](https://imsun.pw/archives/mobile-phone-battery-life-anxiety.html)
 <!-- BLOG-POST-LIST:END -->
