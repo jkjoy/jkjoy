@@ -20,9 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [2025 未完成](https://imsun.pw/archives/unfinished-by-2025.html)
 - [给朋友装电脑](https://imsun.pw/archives/install-a-computer-for-a-friend.html)
 - [回顾一下](https://imsun.pw/archives/lets-review-it.html)
 - [买房那些事 10](https://imsun.pw/archives/10-things-about-buying-a-house.html)
 - [NAS散热](https://imsun.pw/archives/nas-cooling-system.html)
-- [绝唱](https://imsun.pw/archives/ultimate-song.html)
 <!-- BLOG-POST-LIST:END -->
