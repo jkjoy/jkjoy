@@ -20,9 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
-- [下定决心减肥](https://imsun.pw/archives/determined-to-lose-weight.html)
-- [好像好了又好像没好](https://imsun.pw/archives/seems-better-but-not-quite.html)
-- [Typecho Adams 二改主题](https://imsun.pw/archives/typecho-adams-changed-the-theme-for-the-second-time.html)
-- [Typecho S3upload 插件](https://imsun.pw/archives/typecho-s3upload-plugin.html)
-- [2025 未完成](https://imsun.pw/archives/unfinished-by-2025.html)
+- [Hello CFBlog](https://www.imsun.pw/hello-cfblog)
+- [下定决心减肥](https://www.imsun.pw/determined-to-lose-weight)
+- [好像好了又好像没好](https://www.imsun.pw/seems-better-but-not-quite)
+- [Typecho Adams 二改主题](https://www.imsun.pw/typecho-adams-changed-the-theme-for-the-second-time)
+- [Typecho S3upload 插件](https://www.imsun.pw/typecho-s3upload-plugin)
 <!-- BLOG-POST-LIST:END -->
