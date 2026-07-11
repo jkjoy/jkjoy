@@ -20,9 +20,5 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
-- [爱情](https://www.imsun.pw/love-and-romance)
-- [CFblog安卓客户端发布](https://www.imsun.pw/cfblog-android-client-release)
-- [Hello CFBlog](https://www.imsun.pw/hello-cfblog)
-- [下定决心减肥](https://www.imsun.pw/determined-to-lose-weight)
-- [好像好了又好像没好](https://www.imsun.pw/seems-better-but-not-quite)
+- [欢迎来到你的新博客](https://www.imsun.pw/archive/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E4%BD%A0%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2)
 <!-- BLOG-POST-LIST:END -->
