@@ -20,5 +20,5 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
-- [欢迎来到你的新博客](https://www.imsun.pw/archive/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E4%BD%A0%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2)
+- [欢迎来到你的新博客](https://www.imsun.pw/archive/hello-world)
 <!-- BLOG-POST-LIST:END -->
