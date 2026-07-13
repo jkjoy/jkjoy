@@ -20,5 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
-- [欢迎来到你的新博客](https://www.imsun.pw/archive/hello-world)
+- [一些碎碎念](https://www.imsun.pw/archive/some-rambling-thoughts)
+- [下定决心减肥](https://www.imsun.pw/archive/determined-to-lose-weight)
+- [好像好了又好像没好](https://www.imsun.pw/archive/seems-better-but-not-quite)
+- [Typecho Adams 二改主题](https://www.imsun.pw/archive/typecho-adams-changed-the-theme-for-the-second-time)
+- [Typecho S3upload 插件](https://www.imsun.pw/archive/typecho-s3upload-plugin)
 <!-- BLOG-POST-LIST:END -->
