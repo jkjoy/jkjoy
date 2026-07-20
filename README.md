@@ -20,9 +20,9 @@
 
 ## Blog Update 📒
 <!-- BLOG-POST-LIST:START -->
+- [南宁之行](https://www.imsun.pw/archive/trip-to-nanning)
 - [一些碎碎念](https://www.imsun.pw/archive/some-rambling-thoughts)
 - [欢迎来到我的新博客](https://www.imsun.pw/archive/welcome-to-your-new-blog)
 - [下定决心减肥](https://www.imsun.pw/archive/determined-to-lose-weight)
 - [好像好了又好像没好](https://www.imsun.pw/archive/seems-better-but-not-quite)
-- [Typecho Adams 二改主题](https://www.imsun.pw/archive/typecho-adams-changed-the-theme-for-the-second-time)
 <!-- BLOG-POST-LIST:END -->
